@@ -354,7 +354,7 @@
                     }, x)) : Object(n["d"])("", !0), 0 == a.page ? (Object(n["i"])(),
                         Object(n["e"])("div", y, "Fake Yiban v0.2.3 (Alpha)")) : Object(n["d"])("", !0), -1 == a.page ? (Object(n["i"])(),
                             Object(n["e"])("div", k, "关于")) : 1 == a.page ? (Object(n["i"])(),
-                                Object(n["e"])("div", I, Object(n["n"])(a.studentName) + "的请销假", 1)) : 2 == a.page ? (Object(n["i"])(),
+                                Object(n["e"])("div", I, Object(n["n"])(a.studentName) + "的请假", 1)) : 2 == a.page ? (Object(n["i"])(),
                                     Object(n["e"])("div", A, "请销假")) : Object(n["d"])("", !0), 0 == a.page ? (Object(n["i"])(),
                                         Object(n["e"])("div", {
                                             key: 5,
